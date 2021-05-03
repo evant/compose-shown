@@ -19,5 +19,5 @@ example, you want to re-send when the search query changes.
 ```kotlin
 SearchResults(modifier = Modifier.onShown(query) {
     // fire when shown and when the query changes.                                                 
-}, query = query)
+}, results)
 ```
