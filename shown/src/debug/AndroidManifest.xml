@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name="androidx.activity.ComponentActivity" />
+        <activity android:name="me.tatarka.compose.shown.ConfigChangeActivity" />
+    </application>
+</manifest>
