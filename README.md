@@ -1,6 +1,6 @@
 # Compose-Shown
 
-Provides a callback for when a `@Composible` is shown to the user. This can be useful for 'pageview'
+Provides a callback for when a `@Composable` is shown to the user. This can be useful for 'pageview'
 analytics. It will re-fire when the activity is paused and resumed and _not_ re-fire on rotation.
 
 ## Usage
